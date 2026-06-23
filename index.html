@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Water as a Constraint for Green Hydrogen — Interactive</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+<link rel="stylesheet" href="style.css?v=4">
+</head>
+<body>
+<header>
+  <div class="eyebrow">World Hydrogen Energy Conference · interactive</div>
+  <h1>Water as a Constraint for Green Hydrogen <span class="sub">— a Portugal screening sandbox</span></h1>
+  <div class="modebar">
+    <button id="mLearn" class="modebtn active">📖 Learn the model</button>
+    <button id="mSandbox" class="modebtn">🗺️ Sandbox</button>
+    <button id="mAbout" class="modebtn">ℹ️ About &amp; sources</button>
+  </div>
+</header>
+
+<main>
+  <!-- ================= LEARN ================= -->
+  <section id="story">
+    <div class="storycard">
+      <div class="lessonhead"><span id="chapBadge" class="chapbadge"></span><span id="lessonCount"></span></div>
+      <div class="progbar"><div id="progFill" class="progfill"></div></div>
+      <h2 id="storyTitle"></h2>
+      <div id="storyBody"></div>
+      <div id="lessonCheck"></div>
+      <div class="storynav">
+        <button id="prevBtn">‹ Back</button>
+        <button id="nextBtn">Next ›</button>
+        <button id="toSandbox" class="ghost">Open Sandbox →</button>
+      </div>
+      <div id="chapToc" class="chaptoc"></div>
+    </div>
+  </section>
+
+  <!-- ================= SANDBOX ================= -->
+  <section id="sandbox" class="hidden">
+    <!-- controls -->
+    <div id="controls">
+      <div class="grp">
+        <h3>① Siting strategy</h3>
+        <div class="seg" id="segStrategy">
+          <button data-v="single">Single mega-plant</button>
+          <button data-v="distributed" class="active">Distributed</button>
+          <button data-v="manual">Manual (click map)</button>
+        </div>
+        <p class="bnote" id="strategyNote"></p>
+      </div>
+
+      <div class="grp">
+        <h3>② Production target</h3>
+        <label>Total electrolyser capacity: <b id="targetVal">1000 MW</b>
+          <input type="range" id="target" min="100" max="6000" step="100" value="1000">
+        </label>
+        <label id="nNodesWrap">Number of nodes: <b id="nNodesVal">5</b>
+          <input type="range" id="nNodes" min="1" max="13" step="1" value="5">
+          <span class="src calc">CALC distributed mode</span>
+        </label>
+      </div>
+
+      <div class="grp">
+        <h3>③ Plant assumptions</h3>
+        <label>Electrolyser energy: <b id="eVal">55 kWh/kg</b>
+          <input type="range" id="eKWh" min="48" max="62" step="1" value="55">
+          <span class="src ext">EXT PEM/alkaline</span>
+        </label>
+        <label>Water intensity: <b id="lVal">18 L/kg</b>
+          <input type="range" id="lPerKg" min="9" max="30" step="1" value="18">
+          <span class="src ext">EXT · stoich floor 9</span>
+        </label>
+      </div>
+
+      <div class="grp">
+        <h3>④ Water budget &amp; season</h3>
+        <label>Licensable share of basin water: <b id="allocVal">0.5%</b>
+          <input type="range" id="alloc" min="0.1" max="5" step="0.1" value="0.5">
+          <span class="src calc">CALC headroom for new H₂</span>
+        </label>
+        <label>Season: <b id="monthVal">Annual average</b>
+          <input type="range" id="month" min="-1" max="11" step="1" value="-1">
+          <span class="src ext">EXT Aqueduct monthly stress</span>
+        </label>
+      </div>
+
+      <div class="grp">
+        <h3>⑤ Alternative water <span class="hint">(desalination)</span></h3>
+        <label class="toggle"><input type="checkbox" id="desal"> Allow seawater desal at coastal basins</label>
+        <label>Desal cost premium: <b id="desalVal">€0.40/kg</b>
+          <input type="range" id="desalPrem" min="0" max="1.5" step="0.05" value="0.4">
+          <span class="src calc">CALC capex + energy + brine</span>
+        </label>
+      </div>
+
+      <div class="grp">
+        <h3>⑥ Cost (LCOH)</h3>
+        <label>Electricity (solar PPA): <b id="elecVal">€40/MWh</b>
+          <input type="range" id="elec" min="20" max="90" step="5" value="40">
+          <span class="src ext">EXT</span>
+        </label>
+        <label>Electrolyser capex: <b id="capexVal">€1200/kW</b>
+          <input type="range" id="capex" min="500" max="2200" step="50" value="1200">
+          <span class="src ext">EXT</span>
+        </label>
+        <label>Annualised capex: <b id="crfVal">10%/yr</b>
+          <input type="range" id="crf" min="6" max="16" step="1" value="10">
+          <span class="src calc">CALC discount + life + O&amp;M</span>
+        </label>
+        <label>Freshwater cost: <b id="waterCostVal">€0.80/m³</b>
+          <input type="range" id="waterCost" min="0.2" max="3" step="0.1" value="0.8">
+          <span class="src ext">EXT</span>
+        </label>
+      </div>
+
+      <div class="grp">
+        <h3>⑦ Hard exclusions <span class="hint">(eligibility)</span></h3>
+        <label>Min solar PVOUT: <b id="floorVal">off</b>
+          <input type="range" id="floor" min="1300" max="1620" step="10" value="1300">
+        </label>
+        <label>Max water stress (Aqueduct): <b id="ceilVal">5.0</b>
+          <input type="range" id="ceil" min="1" max="5" step="0.5" value="5">
+          <span class="src ext">EXT bws 0–5</span>
+        </label>
+      </div>
+
+      <div class="grp">
+        <h3>⑧ Map layer</h3>
+        <div class="layerseg seg" id="segLayer">
+          <button data-v="nodes" class="active">Chosen nodes</button>
+          <button data-v="viability">Viability</button>
+          <button data-v="solar">Solar yield</button>
+          <button data-v="stress">Water stress</button>
+          <button data-v="lcoh">Cost €/kg</button>
+          <button data-v="budget">Water budget</button>
+        </div>
+      </div>
+      <button id="resetBtn" class="resetbtn">↺ Reset to defaults</button>
+    </div>
+
+    <!-- outputs -->
+    <div id="outputs">
+      <div class="verdict" id="verdict">
+        <div class="vlabel">Peak water burden on any basin</div>
+        <div class="vbig"><span id="peakB">—</span></div>
+        <div class="vsub" id="verdictMsg">—</div>
+        <div class="src">burden = basin water draw ÷ allocatable headroom · CALC</div>
+      </div>
+      <div id="map"></div>
+      <div class="maplegend" id="legend"></div>
+      <div class="statgrid">
+        <div class="stat"><div class="n" id="sLCOH">—</div><div class="l">avg €/kg H₂ (LCOH)</div></div>
+        <div class="stat"><div class="n" id="sH2">—</div><div class="l">kt H₂ / yr</div></div>
+        <div class="stat"><div class="n" id="sNodes">—</div><div class="l">active nodes</div></div>
+        <div class="stat"><div class="n" id="sOver">—</div><div class="l">basins over budget</div></div>
+      </div>
+      <div class="card">
+        <div class="cardhd">Water burden per active basin <span class="src calc">CALC live</span></div>
+        <div id="burdens"></div>
+        <div class="bnote" id="burdenNote"></div>
+      </div>
+      <div class="card">
+        <div class="cardhd">Export &amp; share <span class="hint" style="font-weight:400;color:var(--grey)">reproducible</span></div>
+        <div class="exporttoolbar">
+          <button id="shareBtn" class="xbtn">🔗 Copy share link</button>
+          <button id="csvBtn" class="xbtn">⬇ Scenario (CSV)</button>
+          <a id="geojsonBtn" class="xbtn" href="basins.geojson" download="portugal_basins.geojson">⬇ Basin data (GeoJSON)</a>
+          <button id="printBtn" class="xbtn">🖨 Print / PDF</button>
+        </div>
+        <div class="bnote" id="shareNote">Share link encodes your exact scenario; CSV exports the per-basin result table.</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= ABOUT ================= -->
+  <section id="about" class="hidden"></section>
+</main>
+
+<footer id="refs">
+  <h3>Sources — every number is external <span class="src ext">EXT</span> or computed live <span class="src calc">CALC</span></h3>
+  <div id="reflist"></div>
+  <p class="fine">Data baked from <code>basins.geojson</code> (WRI Aqueduct 4.0 + PVGIS, 13 mainland-Portugal hydrobasins). The page runs entirely in your browser — no server. A <b>screening tool, not a permit-grade assessment</b>. Inspired by A. Alves, WHEC 2026, Abstract 776.</p>
+</footer>
+
+<div id="loading">Loading basin data…</div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="model.js?v=4"></script>
+<script src="course.js?v=4"></script>
+<script src="app.js?v=4"></script>
+</body>
+</html>
