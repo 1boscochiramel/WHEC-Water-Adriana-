@@ -71,3 +71,6 @@ Comparison QA: deterministic signed budget, existing deficit, break-even, missin
 
 
 Supported-sites filter: assessment search, direct-link selection and comparisons exclude sources without complete supported budgets. The current eligible list is empty; the page says No supported sites available while retaining the plant-demand calculator and geographic atlas. Existing screening checks retain evidence validation and missing-data gates.
+
+
+User correction: all sources restored. support.html lists every record by budget support and research stage, with searchable filters and full filtered CSV export. No unsupported records removed. First-pass evidence is not an exhaustive site audit. See BUDGET_RESEARCH.md.

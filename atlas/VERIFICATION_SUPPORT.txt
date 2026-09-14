@@ -1,0 +1,2 @@
+PASS complete source-ID coverage; supported budgets=0; stages={"catalogue-only": 496, "not-site-reviewed": 190526, "partial-evidence": 5}
+PASS unresearched distinct from reviewed-incomplete; unknown budgets remain null

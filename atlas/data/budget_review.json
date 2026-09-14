@@ -1,0 +1,36 @@
+{
+  "reviewed": "2026-09-14",
+  "notes": {
+    "eea/PT20915460": {
+      "stage": "partial-evidence",
+      "finding": "Operator page describes design flow and the receiving basin; no allocatable dry-period reuse budget established.",
+      "source": "https://www.simarsul.adp.pt/content/afonsoeiro",
+      "next": "Find monthly treated effluent, reuse commitments and applicable discharge requirements.",
+      "access": "Read through web tool; direct machine download failed TLS certificate validation."
+    },
+    "eea/PT21516921": {
+      "stage": "partial-evidence",
+      "finding": "Operator documents treatment capacity, discharge to Ribeira de Almargem and internal reuse treatment. Design capacity is not uncommitted supply.",
+      "source": "https://www.aguasdoalgarve.pt/content/etar-de-almargem-0",
+      "next": "Find actual dry-period treated flow, internal/external reuse and required discharge."
+    },
+    "eea/PT9032969": {
+      "stage": "partial-evidence",
+      "finding": "Operator announcement describes planned reuse serving golf and green spaces jointly with Quinta do Lago; not an available daily allowance for a new project.",
+      "source": "https://www.aguasdoalgarve.pt/noticias/aguas-do-algarve-apresenta-investimentos-na-producao-de-agua-para-reutilizacao-em-vilamoura",
+      "next": "Find commissioning/operating series and existing supply commitments at this plant."
+    },
+    "eea/PT9032964": {
+      "stage": "partial-evidence",
+      "finding": "Operator describes inaugurated reuse infrastructure, delivery points and estimated annual production. Spare dry-season supply remains unresolved.",
+      "source": "https://www.aguasdoalgarve.pt/noticias/aguas-do-algarve-inaugurou-empreitada-de-execucao-de-infraestruturas-de-elevacao-e-aducao",
+      "next": "Find actual monthly ApR production, delivery commitments and a source-specific available allowance."
+    },
+    "relation/8988700": {
+      "stage": "partial-evidence",
+      "finding": "Pinned EDIA report supports historical monthly storage and annual EFMA use. These quantities do not establish incremental dry-period allocation.",
+      "source": "https://www.edia.pt/wp-content/uploads/2026/02/RelatorioContas_2024_EN.pdf#page=20",
+      "next": "Find matching-period inflow/loss balance, commitments, environmental obligations and allowable drawdown."
+    }
+  }
+}
