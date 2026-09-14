@@ -92,3 +92,8 @@ The indexed Tejo 2025 activities-plan PDF URL returned HTTP 404 from this machin
 Run `verify_operator_values.py` to reproduce the published annual treated-water values for Rio Maior, Torres Vedras and Zambujeira from the archived primary pages. Run `verify_research_expansion.py` for distinct IDs, hashes, anchors and budget-null checks. `verify_support_register.py` checks complete inventory preservation and stage totals. Additional-source checks are in `verify_research_supplements.py`.
 
 These checks verify extraction, identity bookkeeping and evidence boundaries. They do not independently validate operator measurements, treatment performance, abstraction permissions, intake connectivity or future water availability. No operator or Adriana has yet validated this expanded register.
+
+
+## 15 September release audit
+
+Rechecked the operator July 2026 reuse update (https://www.aguasdoalgarve.pt/noticias/algarve-reforca-seguranca-hidrica-com-novos-projetos-de-reutilizacao-de-agua-e-avanco-da) and the Quinta do Lago contract notice (https://www.aguasdoalgarve.pt/noticias/aguas-do-algarve-assina-contrato-de-fornecimento-de-apr-agua-para-reutilizacao). The current update gives combined supply/needs context, not exact-source uncommitted dry-period allowance. The contract notice identifies seasonal competing demand; it is not a current metered net allocation. Prior archives remain in data/research30. No new supported allowance was established. Model-based net supply remains blocked by absent aligned source flow and deduction evidence. Annual scenario release is explicitly research-review only.

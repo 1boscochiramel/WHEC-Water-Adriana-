@@ -74,3 +74,7 @@ Supported-sites filter: assessment search, direct-link selection and comparisons
 
 
 User correction: all sources restored. support.html lists every record by budget support and research stage, with searchable filters and full filtered CSV export. No unsupported records removed. First-pass evidence is not an exhaustive site audit. See BUDGET_RESEARCH.md.
+
+2026-09-14 expanded research audit: local combined name/stage filter and supplementary citation rendered; live Partial evidence found filter displayed 33 records. verify_publish_research.py passed committed/live asset equality and Actions success. No independent external operator validation claimed.
+
+2026-09-15 research-review QA: isolated headless Microsoft Edge exercised all three inputs, actual JSON download contents, optional four-source comparison, duplicate rejection, return to one source, zero demand, register filtering and actual CSV download. No page errors. Browser connector remained unavailable; the independently launched local test browser worked. Mobile screenshot review found and fixed worked-example table overflow. SUPPLY_SCENARIO_METHOD.md retains scientific limitations; this does not validate physical availability.

@@ -1,0 +1,11 @@
+{
+  "browser": "Headless Microsoft Edge, isolated test profile",
+  "checks": [
+    "Three sliders update demand and annual scenario; downloaded JSON matches; supported budget remains unknown",
+    "Four-source comparison, duplicate rejection and separation from supported ranking",
+    "Return to one source clears hidden selections; zero capacity yields zero demand",
+    "Evidence register filtering and CSV download work"
+  ],
+  "pageErrors": [],
+  "status": "passed"
+}

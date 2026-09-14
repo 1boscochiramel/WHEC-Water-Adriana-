@@ -1,0 +1,43 @@
+{
+  "plant": {
+    "mw": 100,
+    "cf": 90,
+    "energy": 55
+  },
+  "intakeM3Day": 490.90909090909093,
+  "residualM3Day": 2534.1967213114754,
+  "type": "conditional-annual-scenario",
+  "source": {
+    "id": "eea/PT7032888",
+    "name": "Rio Maior",
+    "status": "conditional-annual-scenario",
+    "period": "2024 annual average",
+    "days": 366,
+    "treatedM3Year": 957185.0,
+    "reuseM3Year": 29669,
+    "residualM3Day": 2534.1967213114754,
+    "supportedBudgetM3Day": null,
+    "dryPeriodM3Day": null,
+    "sourceUrl": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/rio-maior/",
+    "archive": "data/research30/rio-maior.html",
+    "sha256": "33e4658c0d3f68693170c4b2f522ddcb6973d3f1f6a294d57851c86847d3f0d6",
+    "treatedAnchor": "957 185 m³/ano Água tratada",
+    "reuseAnchor": "29 669 m³ de água+",
+    "assumptions": [
+      "Reported water+ production is deducted as if it were a separate, fully used share of treated output. Production is not proof of consumption; internal recirculation could overlap this balance.",
+      "All remaining treated output is hypothetically accessible before further environmental or contractual deductions. This is a technical scenario, not evidence of unused or permitted supply.",
+      "Uniform annual-average supply and plant operation; no seasonal or peak-day assurance. Existing demand model already includes purification recovery; it must not be deducted twice."
+    ],
+    "missing": [
+      "Dry-period flow series",
+      "Complete existing and future commitments",
+      "Protected discharge and downstream dependence",
+      "Confirmed non-overlapping flow meters",
+      "Water quality, treatment and delivery access",
+      "Intended-use permission"
+    ]
+  },
+  "dryPeriodM3Day": null,
+  "supportedBudgetM3Day": null,
+  "conditionalDifferenceM3Day": 2043.2876304023844
+}

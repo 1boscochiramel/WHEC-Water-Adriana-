@@ -1,0 +1,7 @@
+PASS all partial-evidence records accounted for; numeric anchors, hashes, calendar arithmetic and null net budgets checked
+Coverage: {'insufficient-flow-evidence': 7, 'design-capacity': 10, 'annual-treated-volume': 16}
+PASS demand, optional one-to-four sites, margin signs, descending ranking, missing evidence, mismatched periods and duplicate rejection
+PASS conditional arithmetic, missing/design rejection, zero flow and input validation
+PASS archived annual source anchors, leap-year conversion and unknown dry-period budgets; 8 scenarios
+PASS worked example, release status, annual/dry-period distinction and existing verification
+PASS real browser interactions and exports: 4 checks; no page errors

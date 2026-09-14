@@ -1,0 +1,246 @@
+{
+  "asOf": "2026-09-15",
+  "description": "Conditional historical annual residual; not available-water or dry-period budget.",
+  "records": {
+    "eea/PT12057937": {
+      "id": "eea/PT12057937",
+      "name": "Atouguia da Baleia",
+      "status": "conditional-annual-scenario",
+      "period": "2024 annual average",
+      "days": 366,
+      "treatedM3Year": 1300460.0,
+      "reuseM3Year": 5571,
+      "residualM3Day": 3537.948087431694,
+      "supportedBudgetM3Day": null,
+      "dryPeriodM3Day": null,
+      "sourceUrl": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/atouguia-da-baleia/",
+      "archive": "data/research30/atouguia-da-baleia.html",
+      "sha256": "0913a06f2bb3e4ebf98ed1a5edaf196343ce92544705b7b818382e85eed6574f",
+      "treatedAnchor": "1 300 460 m³/ano Água tratada",
+      "reuseAnchor": "5 571 m³ de água+",
+      "assumptions": [
+        "Reported water+ production is deducted as if it were a separate, fully used share of treated output. Production is not proof of consumption; internal recirculation could overlap this balance.",
+        "All remaining treated output is hypothetically accessible before further environmental or contractual deductions. This is a technical scenario, not evidence of unused or permitted supply.",
+        "Uniform annual-average supply and plant operation; no seasonal or peak-day assurance. Existing demand model already includes purification recovery; it must not be deducted twice."
+      ],
+      "missing": [
+        "Dry-period flow series",
+        "Complete existing and future commitments",
+        "Protected discharge and downstream dependence",
+        "Confirmed non-overlapping flow meters",
+        "Water quality, treatment and delivery access",
+        "Intended-use permission"
+      ]
+    },
+    "eea/PT20449938": {
+      "id": "eea/PT20449938",
+      "name": "Charneca",
+      "status": "conditional-annual-scenario",
+      "period": "2024 annual average",
+      "days": 366,
+      "treatedM3Year": 2326615.0,
+      "reuseM3Year": 2757,
+      "residualM3Day": 6349.338797814207,
+      "supportedBudgetM3Day": null,
+      "dryPeriodM3Day": null,
+      "sourceUrl": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/charneca/",
+      "archive": "data/research30/charneca.html",
+      "sha256": "06d16b5945cc61b13c57d7e373c0c7c39dfe0120d05cc9860742563df4b1cbfa",
+      "treatedAnchor": "2 326 615 m³/ano Água tratada",
+      "reuseAnchor": "2 757 m³ de água+",
+      "assumptions": [
+        "Reported water+ production is deducted as if it were a separate, fully used share of treated output. Production is not proof of consumption; internal recirculation could overlap this balance.",
+        "All remaining treated output is hypothetically accessible before further environmental or contractual deductions. This is a technical scenario, not evidence of unused or permitted supply.",
+        "Uniform annual-average supply and plant operation; no seasonal or peak-day assurance. Existing demand model already includes purification recovery; it must not be deducted twice."
+      ],
+      "missing": [
+        "Dry-period flow series",
+        "Complete existing and future commitments",
+        "Protected discharge and downstream dependence",
+        "Confirmed non-overlapping flow meters",
+        "Water quality, treatment and delivery access",
+        "Intended-use permission"
+      ]
+    },
+    "eea/PT12058222": {
+      "id": "eea/PT12058222",
+      "name": "Guia",
+      "status": "conditional-annual-scenario",
+      "period": "2024 annual average",
+      "days": 366,
+      "treatedM3Year": 63200000.0,
+      "reuseM3Year": 198723,
+      "residualM3Day": 172134.63661202186,
+      "supportedBudgetM3Day": null,
+      "dryPeriodM3Day": null,
+      "sourceUrl": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/guia/",
+      "archive": "data/research30/guia.html",
+      "sha256": "c9c2ef023669946f621b55361fe82d4b3956df7d201c71836139a9a3ded4833b",
+      "treatedAnchor": "63,2 milhões m³/ano Água tratada",
+      "reuseAnchor": "198 723 m³ de água+",
+      "assumptions": [
+        "Reported water+ production is deducted as if it were a separate, fully used share of treated output. Production is not proof of consumption; internal recirculation could overlap this balance.",
+        "All remaining treated output is hypothetically accessible before further environmental or contractual deductions. This is a technical scenario, not evidence of unused or permitted supply.",
+        "Uniform annual-average supply and plant operation; no seasonal or peak-day assurance. Existing demand model already includes purification recovery; it must not be deducted twice."
+      ],
+      "missing": [
+        "Dry-period flow series",
+        "Complete existing and future commitments",
+        "Protected discharge and downstream dependence",
+        "Confirmed non-overlapping flow meters",
+        "Water quality, treatment and delivery access",
+        "Intended-use permission"
+      ]
+    },
+    "eea/PT21213195": {
+      "id": "eea/PT21213195",
+      "name": "Nazare/Famalicao",
+      "status": "conditional-annual-scenario",
+      "period": "2024 annual average",
+      "days": 366,
+      "treatedM3Year": 1024655.0,
+      "reuseM3Year": 3163,
+      "residualM3Day": 2790.96174863388,
+      "supportedBudgetM3Day": null,
+      "dryPeriodM3Day": null,
+      "sourceUrl": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/nazare/",
+      "archive": "data/research30/nazare.html",
+      "sha256": "a7f5e0f485675c51724a847efef8b91fc97dcb87583c02291414bcb5575904fd",
+      "treatedAnchor": "1 024 655 m³/ano Água tratada",
+      "reuseAnchor": "3 163 m³ de água+",
+      "assumptions": [
+        "Reported water+ production is deducted as if it were a separate, fully used share of treated output. Production is not proof of consumption; internal recirculation could overlap this balance.",
+        "All remaining treated output is hypothetically accessible before further environmental or contractual deductions. This is a technical scenario, not evidence of unused or permitted supply.",
+        "Uniform annual-average supply and plant operation; no seasonal or peak-day assurance. Existing demand model already includes purification recovery; it must not be deducted twice."
+      ],
+      "missing": [
+        "Dry-period flow series",
+        "Complete existing and future commitments",
+        "Protected discharge and downstream dependence",
+        "Confirmed non-overlapping flow meters",
+        "Water quality, treatment and delivery access",
+        "Intended-use permission"
+      ]
+    },
+    "eea/PT7032888": {
+      "id": "eea/PT7032888",
+      "name": "Rio Maior",
+      "status": "conditional-annual-scenario",
+      "period": "2024 annual average",
+      "days": 366,
+      "treatedM3Year": 957185.0,
+      "reuseM3Year": 29669,
+      "residualM3Day": 2534.1967213114754,
+      "supportedBudgetM3Day": null,
+      "dryPeriodM3Day": null,
+      "sourceUrl": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/rio-maior/",
+      "archive": "data/research30/rio-maior.html",
+      "sha256": "33e4658c0d3f68693170c4b2f522ddcb6973d3f1f6a294d57851c86847d3f0d6",
+      "treatedAnchor": "957 185 m³/ano Água tratada",
+      "reuseAnchor": "29 669 m³ de água+",
+      "assumptions": [
+        "Reported water+ production is deducted as if it were a separate, fully used share of treated output. Production is not proof of consumption; internal recirculation could overlap this balance.",
+        "All remaining treated output is hypothetically accessible before further environmental or contractual deductions. This is a technical scenario, not evidence of unused or permitted supply.",
+        "Uniform annual-average supply and plant operation; no seasonal or peak-day assurance. Existing demand model already includes purification recovery; it must not be deducted twice."
+      ],
+      "missing": [
+        "Dry-period flow series",
+        "Complete existing and future commitments",
+        "Protected discharge and downstream dependence",
+        "Confirmed non-overlapping flow meters",
+        "Water quality, treatment and delivery access",
+        "Intended-use permission"
+      ]
+    },
+    "eea/PT20559073": {
+      "id": "eea/PT20559073",
+      "name": "S. Martinho do Porto",
+      "status": "conditional-annual-scenario",
+      "period": "2024 annual average",
+      "days": 366,
+      "treatedM3Year": 824873.0,
+      "reuseM3Year": 2296,
+      "residualM3Day": 2247.4781420765025,
+      "supportedBudgetM3Day": null,
+      "dryPeriodM3Day": null,
+      "sourceUrl": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/sao-martinho-do-porto/",
+      "archive": "data/research30/sao-martinho-do-porto.html",
+      "sha256": "dbb3b2582d1216cc0e26732f3949d3e1cebbe9e2b20e2f0db1741cf09ed4ecde",
+      "treatedAnchor": "824 873 m³/ano Água tratada",
+      "reuseAnchor": "2 296 m³ de água+",
+      "assumptions": [
+        "Reported water+ production is deducted as if it were a separate, fully used share of treated output. Production is not proof of consumption; internal recirculation could overlap this balance.",
+        "All remaining treated output is hypothetically accessible before further environmental or contractual deductions. This is a technical scenario, not evidence of unused or permitted supply.",
+        "Uniform annual-average supply and plant operation; no seasonal or peak-day assurance. Existing demand model already includes purification recovery; it must not be deducted twice."
+      ],
+      "missing": [
+        "Dry-period flow series",
+        "Complete existing and future commitments",
+        "Protected discharge and downstream dependence",
+        "Confirmed non-overlapping flow meters",
+        "Water quality, treatment and delivery access",
+        "Intended-use permission"
+      ]
+    },
+    "eea/PT12032869": {
+      "id": "eea/PT12032869",
+      "name": "Torres Vedras",
+      "status": "conditional-annual-scenario",
+      "period": "2024 annual average",
+      "days": 366,
+      "treatedM3Year": 2395872.0,
+      "reuseM3Year": 67852,
+      "residualM3Day": 6360.710382513661,
+      "supportedBudgetM3Day": null,
+      "dryPeriodM3Day": null,
+      "sourceUrl": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/torres-vedras/",
+      "archive": "data/research30/torres-vedras.html",
+      "sha256": "3ee40d1d321a526b600afd64f61896b2c81d933105ad77f2b8cb761a24aa3df8",
+      "treatedAnchor": "2 395 872 m³/ano Água tratada",
+      "reuseAnchor": "67 852 m³ de água+",
+      "assumptions": [
+        "Reported water+ production is deducted as if it were a separate, fully used share of treated output. Production is not proof of consumption; internal recirculation could overlap this balance.",
+        "All remaining treated output is hypothetically accessible before further environmental or contractual deductions. This is a technical scenario, not evidence of unused or permitted supply.",
+        "Uniform annual-average supply and plant operation; no seasonal or peak-day assurance. Existing demand model already includes purification recovery; it must not be deducted twice."
+      ],
+      "missing": [
+        "Dry-period flow series",
+        "Complete existing and future commitments",
+        "Protected discharge and downstream dependence",
+        "Confirmed non-overlapping flow meters",
+        "Water quality, treatment and delivery access",
+        "Intended-use permission"
+      ]
+    },
+    "eea/PT21992397": {
+      "id": "eea/PT21992397",
+      "name": "Zambujeira",
+      "status": "conditional-annual-scenario",
+      "period": "2024 annual average",
+      "days": 366,
+      "treatedM3Year": 827917.0,
+      "reuseM3Year": 3980,
+      "residualM3Day": 2251.1939890710382,
+      "supportedBudgetM3Day": null,
+      "dryPeriodM3Day": null,
+      "sourceUrl": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/zambujeira/",
+      "archive": "data/research30/zambujeira.html",
+      "sha256": "58e890c1d9ecb63dc784013b523053adb3b93280587c6014fa1d4e1572026ecf",
+      "treatedAnchor": "827 917 m³/ano Água tratada",
+      "reuseAnchor": "3 980 m³ de água+",
+      "assumptions": [
+        "Reported water+ production is deducted as if it were a separate, fully used share of treated output. Production is not proof of consumption; internal recirculation could overlap this balance.",
+        "All remaining treated output is hypothetically accessible before further environmental or contractual deductions. This is a technical scenario, not evidence of unused or permitted supply.",
+        "Uniform annual-average supply and plant operation; no seasonal or peak-day assurance. Existing demand model already includes purification recovery; it must not be deducted twice."
+      ],
+      "missing": [
+        "Dry-period flow series",
+        "Complete existing and future commitments",
+        "Protected discharge and downstream dependence",
+        "Confirmed non-overlapping flow meters",
+        "Water quality, treatment and delivery access",
+        "Intended-use permission"
+      ]
+    }
+  }
+}

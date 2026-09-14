@@ -2,6 +2,8 @@
 
 ## Start here
 
+**Research-review release 0.2.0-review, 15 September 2026:** open [review.html](app/review.html) for the worked example and eight sources with automatic historical annual scenarios. The three plant inputs drive conditional differences and required residual shares. These are not available-water estimates: no dry-period budget has been established. See [SUPPLY_SCENARIO_METHOD.md](SUPPLY_SCENARIO_METHOD.md). Original supported-budget results remain evidence-gated.
+
 Open the map, select a feature and follow its hydrogen assessment link. The main assessment has three plant sliders: electrolyzer capacity, operating factor and electricity intensity. Compare one to four sources side by side and export the evidence.
 
 **Current limitation: no linked source has a fully supported allocatable dry-period budget.** Plant water demand is calculated, but real-source margins and rankings currently show insufficient data. This does not establish site unsuitability. Historical Alqueva evidence is available for inspection; storage and annual system use are not treated as spare supply.
