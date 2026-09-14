@@ -10,27 +10,223 @@
     },
     "eea/PT21516921": {
       "stage": "partial-evidence",
-      "finding": "Operator documents treatment capacity, discharge to Ribeira de Almargem and internal reuse treatment. Design capacity is not uncommitted supply.",
+      "finding": "Operator documents treatment capacity, discharge to Ribeira de Almargem and internal reuse treatment. Actual dry-period flow and allocation remain missing. July 2026 operator update describes additional reuse infrastructure in execution; no completed delivery series is established here.",
       "source": "https://www.aguasdoalgarve.pt/content/etar-de-almargem-0",
-      "next": "Find actual dry-period treated flow, internal/external reuse and required discharge."
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+      "additionalSources": [
+        "https://www.aguasdoalgarve.pt/noticias/algarve-reforca-seguranca-hidrica-com-novos-projetos-de-reutilizacao-de-agua-e-avanco-da"
+      ]
     },
     "eea/PT9032969": {
       "stage": "partial-evidence",
-      "finding": "Operator announcement describes planned reuse serving golf and green spaces jointly with Quinta do Lago; not an available daily allowance for a new project.",
-      "source": "https://www.aguasdoalgarve.pt/noticias/aguas-do-algarve-apresenta-investimentos-na-producao-de-agua-para-reutilizacao-em-vilamoura",
-      "next": "Find commissioning/operating series and existing supply commitments at this plant."
+      "finding": "Operator project page describes treatment, pumping and conveyance for reuse irrigating golf and green spaces. A project description does not establish current spare daily supply. July 2026 operator update includes this plant among reuse-production subsystems serving existing users; system totals cannot be assigned as spare site supply.",
+      "source": "https://www.aguasdoalgarve.pt/content/etar-de-vilamoura-1",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+      "additionalSources": [
+        "https://www.aguasdoalgarve.pt/noticias/algarve-reforca-seguranca-hidrica-com-novos-projetos-de-reutilizacao-de-agua-e-avanco-da"
+      ]
     },
     "eea/PT9032964": {
       "stage": "partial-evidence",
-      "finding": "Operator describes inaugurated reuse infrastructure, delivery points and estimated annual production. Spare dry-season supply remains unresolved.",
-      "source": "https://www.aguasdoalgarve.pt/noticias/aguas-do-algarve-inaugurou-empreitada-de-execucao-de-infraestruturas-de-elevacao-e-aducao",
-      "next": "Find actual monthly ApR production, delivery commitments and a source-specific available allowance."
+      "finding": "Operator project page describes additional treatment, pumping, conveyance and delivery points for golf and public gardens. Existing users and seasonal delivery remain material budget terms. A signed reuse-supply contract is documented in a separate operator notice; obtain its delivery schedule before estimating an unused share. July 2026 operator update includes this plant among reuse-production subsystems serving existing users; system totals cannot be assigned as spare site supply.",
+      "source": "https://www.aguasdoalgarve.pt/content/etar-quinta-do-lago",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+      "additionalSources": [
+        "https://aguasdoalgarve.pt/noticias/aguas-do-algarve-assina-contrato-de-fornecimento-de-apr-agua-para-reutilizacao",
+        "https://www.aguasdoalgarve.pt/noticias/algarve-reforca-seguranca-hidrica-com-novos-projetos-de-reutilizacao-de-agua-e-avanco-da"
+      ]
     },
     "relation/8988700": {
       "stage": "partial-evidence",
       "finding": "Pinned EDIA report supports historical monthly storage and annual EFMA use. These quantities do not establish incremental dry-period allocation.",
       "source": "https://www.edia.pt/wp-content/uploads/2026/02/RelatorioContas_2024_EN.pdf#page=20",
       "next": "Find matching-period inflow/loss balance, commitments, environmental obligations and allowable drawdown."
+    },
+    "eea/PT7032797": {
+      "stage": "partial-evidence",
+      "finding": "Operator publishes annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget. Operational headline has no explicit reporting year; reuse narrative separately refers to 2024.",
+      "source": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/alcantara/",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PT7032917": {
+      "stage": "partial-evidence",
+      "finding": "Operator publishes annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget. Operational headline has no explicit reporting year; reuse narrative separately refers to 2024.",
+      "source": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/alenquer/",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PTAGL065tp01": {
+      "stage": "partial-evidence",
+      "finding": "Operator publishes annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget. Operational headline has no explicit reporting year; reuse narrative separately refers to 2024.",
+      "source": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/alverca/",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PT12057937": {
+      "stage": "partial-evidence",
+      "finding": "Operator publishes 2024 annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget.",
+      "source": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/atouguia-da-baleia/",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PT7032852": {
+      "stage": "partial-evidence",
+      "finding": "Operator publishes annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget. Operational headline has no explicit reporting year; reuse narrative separately refers to 2024. An operator case study documents licensed reuse supplying Parque Tejo and Parque das Nacoes; those uses cannot be counted as spare water.",
+      "source": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/beirolas/",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+      "additionalSources": [
+        "https://www.aguasdotejoatlantico.pt/comunicacao/noticias/2024/06/parque-tejo-rock-in-rio-2024-2026-a-rega-sustent%C3%A1vel-com-%C3%A1guaplus-vai-ficar-pela-sustentabilidade-do-territ%C3%B3rio/"
+      ]
+    },
+    "eea/PT20449938": {
+      "stage": "partial-evidence",
+      "finding": "Operator publishes 2024 annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget.",
+      "source": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/charneca/",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PT7032798": {
+      "stage": "partial-evidence",
+      "finding": "Operator publishes annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget. Operational headline has no explicit reporting year; reuse narrative separately refers to 2024.",
+      "source": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/chelas/",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PTAGL493tp01": {
+      "stage": "partial-evidence",
+      "finding": "Operator publishes 2024 annual treated-water throughput. Annual throughput is not a dry-period unallocated water budget. Receiving-stream descriptions within the page are inconsistent; that field is unresolved.",
+      "source": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/foz-do-lizandro/",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PT7032853": {
+      "stage": "partial-evidence",
+      "finding": "Operator publishes annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget. Operational headline has no explicit reporting year; reuse narrative separately refers to 2024.",
+      "source": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/frielas/",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PT12058222": {
+      "stage": "partial-evidence",
+      "finding": "Operator publishes 2024 annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget.",
+      "source": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/guia/",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PT21213195": {
+      "stage": "partial-evidence",
+      "finding": "Operator publishes 2024 annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget.",
+      "source": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/nazare/",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PT7032888": {
+      "stage": "partial-evidence",
+      "finding": "Operator reports 957,185 m3/year treated in 2024, plus reclaimed-water production. Annual throughput is not a dry-period unallocated water budget.",
+      "source": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/rio-maior/",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PT20559073": {
+      "stage": "partial-evidence",
+      "finding": "Operator publishes 2024 annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget. Discharge destination changes seasonally between the Atlantic and Alfeizerao stream.",
+      "source": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/sao-martinho-do-porto/",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PT12032869": {
+      "stage": "partial-evidence",
+      "finding": "Operator reports 2,395,872 m3/year treated in 2024, plus reclaimed-water production. Annual throughput is not a dry-period unallocated water budget. A November 2025 operator notice reports a licensed monthly reuse quantity for urban uses; the full TUA, actual supply and unused share are still needed.",
+      "source": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/torres-vedras/",
+      "next": "Obtain full TUA and applicable use conditions, monthly production/deliveries and committed urban demand; the licensed quantity is not free capacity for hydrogen.",
+      "additionalSources": [
+        "https://www.aguasdotejoatlantico.pt/comunicacao/noticias/2025/11/fabrica-de-agua-de-torres-vedras-com-licenca-para-produzir-e-fornecer-6200-m3-de-aguaplus/"
+      ]
+    },
+    "eea/PT20400024": {
+      "stage": "partial-evidence",
+      "finding": "Operator publishes annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget. Operational headline has no explicit reporting year; reuse narrative separately refers to 2024.",
+      "source": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/vila-franca-de-xira/",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PT21992397": {
+      "stage": "partial-evidence",
+      "finding": "Operator reports 827,917 m3/year treated in 2024, plus reclaimed-water production. Annual throughput is not a dry-period unallocated water budget.",
+      "source": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/zambujeira/",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PT21517020": {
+      "stage": "partial-evidence",
+      "finding": "Operator documents design flow, discharge to Vala da Lameira and filtered/UV-treated internal reuse. Design capacity is not spare supply. July 2026 operator update includes this plant among reuse-production subsystems serving existing users; system totals cannot be assigned as spare site supply.",
+      "source": "https://www.aguasdoalgarve.pt/content/etar-da-boavista-0",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+      "additionalSources": [
+        "https://www.aguasdoalgarve.pt/noticias/algarve-reforca-seguranca-hidrica-com-novos-projetos-de-reutilizacao-de-agua-e-avanco-da"
+      ]
+    },
+    "eea/PTAGL042tp01": {
+      "stage": "partial-evidence",
+      "finding": "Operator documents design capacity, discharge to Ribeira de Boina in the Arade estuary, and internal service-water reuse. No net dry-period allowance established.",
+      "source": "https://www.aguasdoalgarve.pt/content/etar-da-companheira-0",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PT22833765": {
+      "stage": "partial-evidence",
+      "finding": "Operator documents design flow, service-water filtration/disinfection and discharge to Ribeira de Espiche. No uncommitted supply is established. July 2026 operator update includes this plant among reuse-production subsystems serving existing users; system totals cannot be assigned as spare site supply.",
+      "source": "https://www.aguasdoalgarve.pt/content/etar-de-albufeira-poente",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+      "additionalSources": [
+        "https://www.aguasdoalgarve.pt/noticias/algarve-reforca-seguranca-hidrica-com-novos-projetos-de-reutilizacao-de-agua-e-avanco-da"
+      ]
+    },
+    "eea/PT9032939": {
+      "stage": "partial-evidence",
+      "finding": "Operator describes biological treatment, microfiltration/UV, additional internal reuse disinfection and discharge to Esteiro do Ramalhete. No net allowance established. July 2026 operator update describes additional reuse infrastructure in execution; no completed delivery series is established here.",
+      "source": "https://www.aguasdoalgarve.pt/content/etar-de-faro-noroeste",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+      "additionalSources": [
+        "https://www.aguasdoalgarve.pt/noticias/algarve-reforca-seguranca-hidrica-com-novos-projetos-de-reutilizacao-de-agua-e-avanco-da"
+      ]
+    },
+    "eea/PTAGL508tp01": {
+      "stage": "partial-evidence",
+      "finding": "Operator describes the replacement Faro-Olhao plant on the former Faro Nascente site, its design flow and biological treatment. Old lagoon systems are not additional supply.",
+      "source": "https://www.aguasdoalgarve.pt/content/etar-de-faroolhao",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PT9033031": {
+      "stage": "partial-evidence",
+      "finding": "Operator documents design flow, treatment process, internal service-water reuse and discharge to Ribeira de Bensafrim. No dry-period surplus established.",
+      "source": "https://www.aguasdoalgarve.pt/content/etar-de-lagos",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PT9000511": {
+      "stage": "partial-evidence",
+      "finding": "Historical operator expansion description documents microfiltration/UV, Ria Formosa discharge and partial internal reuse. Current operating flow and commissioning status need confirmation.",
+      "source": "https://www.aguasdoalgarve.pt/content/etar-de-olhao-nascente",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PT9033023": {
+      "stage": "partial-evidence",
+      "finding": "Operator documents design flow, filtered/disinfected internal service water and Atlantic discharge. This is Vale Faro in Albufeira, not Faro city.",
+      "source": "https://www.aguasdoalgarve.pt/content/etar-de-vale-de-faro",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PT22833718": {
+      "stage": "partial-evidence",
+      "finding": "Operator documents Guadiana discharge, filtration and additional UV treatment for service-water reuse. No allocatable dry-period volume established. July 2026 operator update includes this plant among reuse-production subsystems serving existing users; system totals cannot be assigned as spare site supply.",
+      "source": "https://www.aguasdoalgarve.pt/content/etar-de-vila-real-de-santo-antonio",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+      "additionalSources": [
+        "https://www.aguasdoalgarve.pt/noticias/algarve-reforca-seguranca-hidrica-com-novos-projetos-de-reutilizacao-de-agua-e-avanco-da"
+      ]
+    },
+    "eea/PT12057921": {
+      "stage": "partial-evidence",
+      "finding": "Operator protocol identifies Gaeiras as a proposed source for irrigation of Caxinas municipal park and Quinta das Janelas, and reports treatment capacity. A feasibility-study protocol is not a commissioned supply guarantee.",
+      "source": "https://www.aguasdotejoatlantico.pt/comunicacao/noticias/2025/09/tejo-atlantico-e-camara-municipal-de-obidos-assinam-protocolo-para-utilizacao-de-aguaplus/",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PT18014676": {
+      "stage": "partial-evidence",
+      "finding": "Operator upgrade announcement distinguishes dry-weather and wet-weather treatment lines and planned internal reclaimed-water production. Storm-flow capacity is not dependable dry-period supply.",
+      "source": "https://aguasdotejoatlantico.adp.pt/comunicacao/noticias/2023/09/fabrica-de-agua-da-ericeira-recebe-beneficiacao-no-valor-de-6-8m-de-euros/",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
+    },
+    "eea/PT12057750": {
+      "stage": "partial-evidence",
+      "finding": "Operator upgrade announcement reports maximum treatment flow and plans for effluent disinfection and process-water production. Maximum capacity is not observed dry-period supply.",
+      "source": "https://www.aguasdotejoatlantico.pt/comunicacao/noticias/2025/01/f%C3%A1brica-de-%C3%A1gua-de-santa-cruz-vai-receber-investimento-de-7-4m-em-obras-de-beneficia%C3%A7%C3%A3o/",
+      "next": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period."
     }
   }
 }

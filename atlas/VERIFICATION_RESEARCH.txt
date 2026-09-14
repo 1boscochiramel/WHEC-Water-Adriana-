@@ -1,0 +1,7 @@
+PASS rio-maior: published 2024 treated volume = 957185 m3/year
+PASS torres-vedras: published 2024 treated volume = 2395872 m3/year
+PASS zambujeira: published 2024 treated volume = 827917 m3/year
+PASS annual values reproduced from archived primary pages; no daily availability conversion
+PASS 31 distinct EEA records matched to archived operator evidence; hashes and anchors checked
+PASS source-specific findings and missing terms; no inferred net daily budgets
+PASS supplementary notice hashes, anchors and Torres Vedras monthly/urban-use scope

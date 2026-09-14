@@ -170,3 +170,6 @@ Supported-sites filter: assessment search, direct-link selection and comparisons
 
 
 User correction: all sources restored. support.html lists every record by budget support and research stage, with searchable filters and full filtered CSV export. No unsupported records removed. First-pass evidence is not an exhaustive site audit. See BUDGET_RESEARCH.md.
+
+
+2026-09-14 expanded evidence audit: 33 partial-evidence records, including 31 distinct EEA wastewater records audited in this pass, including previously reviewed records; no supported net dry-period budgets. Source hashes, match rationales and missing terms are documented in BUDGET_RESEARCH.md and data/research30/evidence.json. All sites retained. Resume: `C:/Users/Admin/Desktop/WHEC/.venv/Scripts/python.exe C:/Users/Admin/Desktop/WHEC/portugal_water_atlas/verify_research_expansion.py`. Publication verification pending below.

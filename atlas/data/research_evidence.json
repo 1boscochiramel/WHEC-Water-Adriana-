@@ -1,0 +1,514 @@
+[
+  {
+    "id": "eea/PT7032797",
+    "atlasName": "Alcantara",
+    "url": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/alcantara/",
+    "archive": "data/research30/alcantara.html",
+    "sha256": "9a53defa28ee0e7ce15d0b91e8c600a5a1872039570f5c718cffeb0c822b8a5a",
+    "anchor": "Dados Operacionais",
+    "matchBasis": "Lisbon, Alcantara; unique EEA name",
+    "finding": "Operator publishes annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget. Operational headline has no explicit reporting year; reuse narrative separately refers to 2024.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PT7032917",
+    "atlasName": "Alenquer",
+    "url": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/alenquer/",
+    "archive": "data/research30/alenquer.html",
+    "sha256": "8f710b706a4e4cb7d334f97f8d03e5e23b8b934e667693d4293da7c61030669b",
+    "anchor": "Dados Operacionais",
+    "matchBasis": "Alenquer municipality; unique EEA name",
+    "finding": "Operator publishes annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget. Operational headline has no explicit reporting year; reuse narrative separately refers to 2024.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PTAGL065tp01",
+    "atlasName": "Alverca",
+    "url": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/alverca/",
+    "archive": "data/research30/alverca.html",
+    "sha256": "ea0e890b7012f24fd02452797956ad7c17bfe887c93f043af184d40427ee1a3e",
+    "anchor": "Dados Operacionais",
+    "matchBasis": "Vila Franca de Xira municipality, Alverca; unique name",
+    "finding": "Operator publishes annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget. Operational headline has no explicit reporting year; reuse narrative separately refers to 2024.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PT12057937",
+    "atlasName": "Atouguia da Baleia",
+    "url": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/atouguia-da-baleia/",
+    "archive": "data/research30/atouguia-da-baleia.html",
+    "sha256": "0913a06f2bb3e4ebf98ed1a5edaf196343ce92544705b7b818382e85eed6574f",
+    "anchor": "Dados Operacionais (2024)",
+    "matchBasis": "Peniche, Atouguia da Baleia; not Atouguia/Abrigada",
+    "finding": "Operator publishes 2024 annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PT7032852",
+    "atlasName": "Beirolas",
+    "url": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/beirolas/",
+    "archive": "data/research30/beirolas.html",
+    "sha256": "a47088cf18bd5397b5b81adedf19e35db7462e6d43a9aece69b6a851e298dde0",
+    "anchor": "Dados Operacionais",
+    "matchBasis": "Lisbon, Beirolas; unique EEA name",
+    "finding": "Operator publishes annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget. Operational headline has no explicit reporting year; reuse narrative separately refers to 2024. An operator case study documents licensed reuse supplying Parque Tejo and Parque das Nacoes; those uses cannot be counted as spare water.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14",
+    "additionalSources": [
+      {
+        "url": "https://www.aguasdotejoatlantico.pt/comunicacao/noticias/2024/06/parque-tejo-rock-in-rio-2024-2026-a-rega-sustent%C3%A1vel-com-%C3%A1guaplus-vai-ficar-pela-sustentabilidade-do-territ%C3%B3rio/",
+        "archive": "data/research30/parque-tejo.html",
+        "sha256": "bfc57d310c6e7c7626d67f017f82e3c840c5a2b4772f6affa8b377af3c524b16",
+        "anchor": "Parque Tejo"
+      }
+    ]
+  },
+  {
+    "id": "eea/PT20449938",
+    "atlasName": "Charneca",
+    "url": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/charneca/",
+    "archive": "data/research30/charneca.html",
+    "sha256": "06d16b5945cc61b13c57d7e373c0c7c39dfe0120d05cc9860742563df4b1cbfa",
+    "anchor": "Dados Operacionais (2024)",
+    "matchBasis": "Obidos/Arelho near lagoon; matching EEA location",
+    "finding": "Operator publishes 2024 annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PT7032798",
+    "atlasName": "Chelas",
+    "url": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/chelas/",
+    "archive": "data/research30/chelas.html",
+    "sha256": "f7625e573ab0b81d0b5d1f8af655223083fd8185ad4ab283196d2301e585eaee",
+    "anchor": "Dados Operacionais",
+    "matchBasis": "Lisbon, Chelas; unique EEA name",
+    "finding": "Operator publishes annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget. Operational headline has no explicit reporting year; reuse narrative separately refers to 2024.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PTAGL493tp01",
+    "atlasName": "Foz do Lizandro",
+    "url": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/foz-do-lizandro/",
+    "archive": "data/research30/foz-do-lizandro.html",
+    "sha256": "0556c75336a533e7f2bc91e3cfd718bd71b58133e67ba0ea761a798b31da98ab",
+    "anchor": "Dados Operacionais (2024)",
+    "matchBasis": "Mafra/Carvoeira, Foz do Lizandro; unique EEA name",
+    "finding": "Operator publishes 2024 annual treated-water throughput. Annual throughput is not a dry-period unallocated water budget. Receiving-stream descriptions within the page are inconsistent; that field is unresolved.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PT7032853",
+    "atlasName": "Frielas",
+    "url": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/frielas/",
+    "archive": "data/research30/frielas.html",
+    "sha256": "5be0e7d7632d7c767915e3fd8d01691832c55e4e91d361c2bba4f10bbfbbc340",
+    "anchor": "Dados Operacionais",
+    "matchBasis": "Loures, Frielas; unique EEA name",
+    "finding": "Operator publishes annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget. Operational headline has no explicit reporting year; reuse narrative separately refers to 2024.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PT12058222",
+    "atlasName": "Guia",
+    "url": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/guia/",
+    "archive": "data/research30/guia.html",
+    "sha256": "c9c2ef023669946f621b55361fe82d4b3956df7d201c71836139a9a3ded4833b",
+    "anchor": "Dados Operacionais (2024)",
+    "matchBasis": "Cascais coastal Guia; not Guia_Pombal or Albufeira Guia",
+    "finding": "Operator publishes 2024 annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PT21213195",
+    "atlasName": "Nazare/Famalicao",
+    "url": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/nazare/",
+    "archive": "data/research30/nazare.html",
+    "sha256": "a7f5e0f485675c51724a847efef8b91fc97dcb87583c02291414bcb5575904fd",
+    "anchor": "Dados Operacionais (2024)",
+    "matchBasis": "Nazare near harbour; EEA Nazare/Famalicao coordinates match coastal service area",
+    "finding": "Operator publishes 2024 annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PT7032888",
+    "atlasName": "Rio Maior",
+    "url": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/rio-maior/",
+    "archive": "data/research30/rio-maior.html",
+    "sha256": "33e4658c0d3f68693170c4b2f522ddcb6973d3f1f6a294d57851c86847d3f0d6",
+    "anchor": "957 185 m³/ano Água tratada",
+    "matchBasis": "Rio Maior industrial zone; unique EEA name",
+    "finding": "Operator reports 957,185 m3/year treated in 2024, plus reclaimed-water production. Annual throughput is not a dry-period unallocated water budget.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PT20559073",
+    "atlasName": "S. Martinho do Porto",
+    "url": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/sao-martinho-do-porto/",
+    "archive": "data/research30/sao-martinho-do-porto.html",
+    "sha256": "dbb3b2582d1216cc0e26732f3949d3e1cebbe9e2b20e2f0db1741cf09ed4ecde",
+    "anchor": "Dados Operacionais (2024)",
+    "matchBasis": "S. Martinho do Porto near bay, not S. Martinho da Arvore",
+    "finding": "Operator publishes 2024 annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget. Discharge destination changes seasonally between the Atlantic and Alfeizerao stream.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PT12032869",
+    "atlasName": "Torres Vedras",
+    "url": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/torres-vedras/",
+    "archive": "data/research30/torres-vedras.html",
+    "sha256": "3ee40d1d321a526b600afd64f61896b2c81d933105ad77f2b8cb761a24aa3df8",
+    "anchor": "2 395 872 m³/ano Água tratada",
+    "matchBasis": "Varatojo/Torres Vedras; unique EEA name",
+    "finding": "Operator reports 2,395,872 m3/year treated in 2024, plus reclaimed-water production. Annual throughput is not a dry-period unallocated water budget. A November 2025 operator notice reports a licensed monthly reuse quantity for urban uses; the full TUA, actual supply and unused share are still needed.",
+    "missing": "Obtain full TUA and applicable use conditions, monthly production/deliveries and committed urban demand; the licensed quantity is not free capacity for hydrogen.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14",
+    "additionalSources": [
+      {
+        "url": "https://www.aguasdotejoatlantico.pt/comunicacao/noticias/2025/11/fabrica-de-agua-de-torres-vedras-com-licenca-para-produzir-e-fornecer-6200-m3-de-aguaplus/",
+        "archive": "data/research30/torres-license.html",
+        "sha256": "a9baa56f2d13f6fb74638538bad5caa4bb87aaae7112ec082436be7f337eae60",
+        "anchor": "mensalmente 6.200 m³"
+      }
+    ]
+  },
+  {
+    "id": "eea/PT20400024",
+    "atlasName": "Vila Franca de Xira",
+    "url": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/vila-franca-de-xira/",
+    "archive": "data/research30/vila-franca-de-xira.html",
+    "sha256": "10544444890a6343da2693058a9b3c8e7023458a1bb126124d818146dd1b553e",
+    "anchor": "Dados Operacionais",
+    "matchBasis": "Vila Franca de Xira town; separate from Alverca",
+    "finding": "Operator publishes annual treated-water throughput and reclaimed-water production. Annual throughput is not a dry-period unallocated water budget. Operational headline has no explicit reporting year; reuse narrative separately refers to 2024.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PT21992397",
+    "atlasName": "Zambujeira",
+    "url": "https://www.aguasdotejoatlantico.adp.pt/o-que-fazemos/fabricas-de-agua/as-fabricas-de-agua-tejo-atlantico/zambujeira/",
+    "archive": "data/research30/zambujeira.html",
+    "sha256": "58e890c1d9ecb63dc784013b523053adb3b93280587c6014fa1d4e1572026ecf",
+    "anchor": "827 917 m³/ano Água tratada",
+    "matchBasis": "Lourinha Zambujeira; explicitly not Zambujeira do Mar",
+    "finding": "Operator reports 827,917 m3/year treated in 2024, plus reclaimed-water production. Annual throughput is not a dry-period unallocated water budget.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PT21517020",
+    "atlasName": "Boavista (Nova ETAR)",
+    "url": "https://www.aguasdoalgarve.pt/content/etar-da-boavista-0",
+    "archive": "data/research30/etar-da-boavista-0.html",
+    "sha256": "7c3f977e3362f4f5576a120dffafa0e85dd70b7f0c19848cf32dce843d51eba6",
+    "anchor": "vala da Lameira",
+    "matchBasis": "Boavista Nova ETAR at Carvoeiro/Lagoa; matching EEA location",
+    "finding": "Operator documents design flow, discharge to Vala da Lameira and filtered/UV-treated internal reuse. Design capacity is not spare supply. July 2026 operator update includes this plant among reuse-production subsystems serving existing users; system totals cannot be assigned as spare site supply.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14",
+    "additionalSources": [
+      {
+        "url": "https://www.aguasdoalgarve.pt/noticias/algarve-reforca-seguranca-hidrica-com-novos-projetos-de-reutilizacao-de-agua-e-avanco-da",
+        "archive": "data/research30/algarve-july2026.html",
+        "sha256": "80d9a201d3151a6671f590af2b30921a6eede24e937c536879df8383dea8ce5c",
+        "anchor": "9 de julho de 2026"
+      }
+    ]
+  },
+  {
+    "id": "eea/PTAGL042tp01",
+    "atlasName": "Companheira (Nova ETAR)",
+    "url": "https://www.aguasdoalgarve.pt/content/etar-da-companheira-0",
+    "archive": "data/research30/etar-da-companheira-0.html",
+    "sha256": "8b39eea3d1e0081e7cd476ebacf756fbd05f8ec751b1beabd3266d3dbb55b1bc",
+    "anchor": "ribeira de Boina",
+    "matchBasis": "Nova Companheira near Portimao/Boina; not an old plant",
+    "finding": "Operator documents design capacity, discharge to Ribeira de Boina in the Arade estuary, and internal service-water reuse. No net dry-period allowance established.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PT22833765",
+    "atlasName": "Albufeira Poente",
+    "url": "https://www.aguasdoalgarve.pt/content/etar-de-albufeira-poente",
+    "archive": "data/research30/etar-de-albufeira-poente.html",
+    "sha256": "08cb7a95f233a2aef0a2f8a36bf02f1331134421abf1ac89b900d307791f672b",
+    "anchor": "Ribeira de Espiche",
+    "matchBasis": "Albufeira Poente in Guia/Albufeira; unique EEA name",
+    "finding": "Operator documents design flow, service-water filtration/disinfection and discharge to Ribeira de Espiche. No uncommitted supply is established. July 2026 operator update includes this plant among reuse-production subsystems serving existing users; system totals cannot be assigned as spare site supply.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14",
+    "additionalSources": [
+      {
+        "url": "https://www.aguasdoalgarve.pt/noticias/algarve-reforca-seguranca-hidrica-com-novos-projetos-de-reutilizacao-de-agua-e-avanco-da",
+        "archive": "data/research30/algarve-july2026.html",
+        "sha256": "80d9a201d3151a6671f590af2b30921a6eede24e937c536879df8383dea8ce5c",
+        "anchor": "9 de julho de 2026"
+      }
+    ]
+  },
+  {
+    "id": "eea/PT21516921",
+    "atlasName": "Almargem",
+    "url": "https://www.aguasdoalgarve.pt/content/etar-de-almargem-0",
+    "archive": "data/research30/etar-de-almargem-0.html",
+    "sha256": "ff1c2ab6312fe42d03c8688bb19458bcdbbb6c0d270222bb2f892c8d1065239d",
+    "anchor": "Ribeira de Almargem",
+    "matchBasis": "Almargem near Tavira; unique EEA name",
+    "finding": "Operator documents treatment capacity, discharge to Ribeira de Almargem and internal reuse treatment. Actual dry-period flow and allocation remain missing. July 2026 operator update describes additional reuse infrastructure in execution; no completed delivery series is established here.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14",
+    "additionalSources": [
+      {
+        "url": "https://www.aguasdoalgarve.pt/noticias/algarve-reforca-seguranca-hidrica-com-novos-projetos-de-reutilizacao-de-agua-e-avanco-da",
+        "archive": "data/research30/algarve-july2026.html",
+        "sha256": "80d9a201d3151a6671f590af2b30921a6eede24e937c536879df8383dea8ce5c",
+        "anchor": "9 de julho de 2026"
+      }
+    ]
+  },
+  {
+    "id": "eea/PT9032939",
+    "atlasName": "Faro-Noroeste",
+    "url": "https://www.aguasdoalgarve.pt/content/etar-de-faro-noroeste",
+    "archive": "data/research30/etar-de-faro-noroeste.html",
+    "sha256": "bdedb9daa7afbc80c1b0efda4f5466795190215c76ae3d5fa95a8b789c7db6dc",
+    "anchor": "Esteiro do Ramalhete",
+    "matchBasis": "Faro Noroeste, west of Faro; separate from Faro-Olhao",
+    "finding": "Operator describes biological treatment, microfiltration/UV, additional internal reuse disinfection and discharge to Esteiro do Ramalhete. No net allowance established. July 2026 operator update describes additional reuse infrastructure in execution; no completed delivery series is established here.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14",
+    "additionalSources": [
+      {
+        "url": "https://www.aguasdoalgarve.pt/noticias/algarve-reforca-seguranca-hidrica-com-novos-projetos-de-reutilizacao-de-agua-e-avanco-da",
+        "archive": "data/research30/algarve-july2026.html",
+        "sha256": "80d9a201d3151a6671f590af2b30921a6eede24e937c536879df8383dea8ce5c",
+        "anchor": "9 de julho de 2026"
+      }
+    ]
+  },
+  {
+    "id": "eea/PTAGL508tp01",
+    "atlasName": "Faro-Olhao",
+    "url": "https://www.aguasdoalgarve.pt/content/etar-de-faroolhao",
+    "archive": "data/research30/etar-de-faroolhao.html",
+    "sha256": "1859f8fed3288e501e229a8586b61c39aff5fcd2218345f2b0aba9b81c54421b",
+    "anchor": "antiga ETAR de Faro Nascente",
+    "matchBasis": "Faro-Olhao combined plant east of Faro; EEA exact combined name",
+    "finding": "Operator describes the replacement Faro-Olhao plant on the former Faro Nascente site, its design flow and biological treatment. Old lagoon systems are not additional supply.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PT9033031",
+    "atlasName": "Lagos",
+    "url": "https://www.aguasdoalgarve.pt/content/etar-de-lagos",
+    "archive": "data/research30/etar-de-lagos.html",
+    "sha256": "e22ee97188c24e971d0fc50e028b383e639d9b4fd71413a1bfe4afb7bfe70760",
+    "anchor": "Ribeira de Bensafrim",
+    "matchBasis": "Lagos municipality; unique EEA plant name",
+    "finding": "Operator documents design flow, treatment process, internal service-water reuse and discharge to Ribeira de Bensafrim. No dry-period surplus established.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PT9000511",
+    "atlasName": "Olhao Nascente",
+    "url": "https://www.aguasdoalgarve.pt/content/etar-de-olhao-nascente",
+    "archive": "data/research30/etar-de-olhao-nascente.html",
+    "sha256": "c7fde75f575c8bc527a31b1718d3ac0556421c174646b08222c0919e7bb2536e",
+    "anchor": "Ria Formosa",
+    "matchBasis": "Olhao Nascente, east of Olhao; separate from Faro-Olhao",
+    "finding": "Historical operator expansion description documents microfiltration/UV, Ria Formosa discharge and partial internal reuse. Current operating flow and commissioning status need confirmation.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PT9033023",
+    "atlasName": "Vale Faro",
+    "url": "https://www.aguasdoalgarve.pt/content/etar-de-vale-de-faro",
+    "archive": "data/research30/etar-de-vale-de-faro.html",
+    "sha256": "2a97aecb1f1a7c91a528340805bfcd5ede469fcef4826f74b6bf9b4560742ec2",
+    "anchor": "Oceano Atl",
+    "matchBasis": "Vale Faro in Albufeira; name variant Vale de Faro",
+    "finding": "Operator documents design flow, filtered/disinfected internal service water and Atlantic discharge. This is Vale Faro in Albufeira, not Faro city.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PT22833718",
+    "atlasName": "Vila Real de Santo Antonio",
+    "url": "https://www.aguasdoalgarve.pt/content/etar-de-vila-real-de-santo-antonio",
+    "archive": "data/research30/etar-de-vila-real-de-santo-antonio.html",
+    "sha256": "52f413ae819e763f706fd1f8edc8985b0bd4829adad75bb9dff0466f798e0040",
+    "anchor": "rio Guadiana",
+    "matchBasis": "VRSA at Sapal do Rato/Guadiana; not Vila Real in northern Portugal",
+    "finding": "Operator documents Guadiana discharge, filtration and additional UV treatment for service-water reuse. No allocatable dry-period volume established. July 2026 operator update includes this plant among reuse-production subsystems serving existing users; system totals cannot be assigned as spare site supply.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14",
+    "additionalSources": [
+      {
+        "url": "https://www.aguasdoalgarve.pt/noticias/algarve-reforca-seguranca-hidrica-com-novos-projetos-de-reutilizacao-de-agua-e-avanco-da",
+        "archive": "data/research30/algarve-july2026.html",
+        "sha256": "80d9a201d3151a6671f590af2b30921a6eede24e937c536879df8383dea8ce5c",
+        "anchor": "9 de julho de 2026"
+      }
+    ]
+  },
+  {
+    "id": "eea/PT9032969",
+    "atlasName": "Vilamoura",
+    "url": "https://www.aguasdoalgarve.pt/content/etar-de-vilamoura-1",
+    "archive": "data/research30/etar-de-vilamoura-1.html",
+    "sha256": "976622a860a5e846ea39a4603a917073f93f8b8956b702a13d0d8d163c2584fe",
+    "anchor": "campos de golfe",
+    "matchBasis": "Vilamoura, Loule; unique EEA name",
+    "finding": "Operator project page describes treatment, pumping and conveyance for reuse irrigating golf and green spaces. A project description does not establish current spare daily supply. July 2026 operator update includes this plant among reuse-production subsystems serving existing users; system totals cannot be assigned as spare site supply.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14",
+    "additionalSources": [
+      {
+        "url": "https://www.aguasdoalgarve.pt/noticias/algarve-reforca-seguranca-hidrica-com-novos-projetos-de-reutilizacao-de-agua-e-avanco-da",
+        "archive": "data/research30/algarve-july2026.html",
+        "sha256": "80d9a201d3151a6671f590af2b30921a6eede24e937c536879df8383dea8ce5c",
+        "anchor": "9 de julho de 2026"
+      }
+    ]
+  },
+  {
+    "id": "eea/PT9032964",
+    "atlasName": "Quinta do Lago",
+    "url": "https://www.aguasdoalgarve.pt/content/etar-quinta-do-lago",
+    "archive": "data/research30/etar-quinta-do-lago.html",
+    "sha256": "6053fd17ec63685b7e0058164f5ab14244a0cadefaaad176af62e472118f3999",
+    "anchor": "jardins p",
+    "matchBasis": "Quinta do Lago, Loule; unique EEA name",
+    "finding": "Operator project page describes additional treatment, pumping, conveyance and delivery points for golf and public gardens. Existing users and seasonal delivery remain material budget terms. A signed reuse-supply contract is documented in a separate operator notice; obtain its delivery schedule before estimating an unused share. July 2026 operator update includes this plant among reuse-production subsystems serving existing users; system totals cannot be assigned as spare site supply.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14",
+    "additionalSources": [
+      {
+        "url": "https://aguasdoalgarve.pt/noticias/aguas-do-algarve-assina-contrato-de-fornecimento-de-apr-agua-para-reutilizacao",
+        "archive": "data/research30/quinta-contract.html",
+        "sha256": "1305cdbaccc0b450cf8da7c394e068b1d6159b83dda67b10fd887265f57c7439",
+        "anchor": "Contrato de Fornecimento de ApR"
+      },
+      {
+        "url": "https://www.aguasdoalgarve.pt/noticias/algarve-reforca-seguranca-hidrica-com-novos-projetos-de-reutilizacao-de-agua-e-avanco-da",
+        "archive": "data/research30/algarve-july2026.html",
+        "sha256": "80d9a201d3151a6671f590af2b30921a6eede24e937c536879df8383dea8ce5c",
+        "anchor": "9 de julho de 2026"
+      }
+    ]
+  },
+  {
+    "id": "eea/PT12057921",
+    "atlasName": "Gaeiras",
+    "url": "https://www.aguasdotejoatlantico.pt/comunicacao/noticias/2025/09/tejo-atlantico-e-camara-municipal-de-obidos-assinam-protocolo-para-utilizacao-de-aguaplus/",
+    "archive": "data/research30/obidos.html",
+    "sha256": "f7f7097f4f97414db870b9cbbfaa7e9826fb097a294031e0e3935b484d4d4caf",
+    "anchor": "Gaeiras",
+    "matchBasis": "Gaeiras in Obidos; unique EEA name",
+    "finding": "Operator protocol identifies Gaeiras as a proposed source for irrigation of Caxinas municipal park and Quinta das Janelas, and reports treatment capacity. A feasibility-study protocol is not a commissioned supply guarantee.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PT18014676",
+    "atlasName": "Ericeira",
+    "url": "https://aguasdotejoatlantico.adp.pt/comunicacao/noticias/2023/09/fabrica-de-agua-da-ericeira-recebe-beneficiacao-no-valor-de-6-8m-de-euros/",
+    "archive": "data/research30/ericeira.html",
+    "sha256": "060292240ba3be1ed90307cbda1d31421c96f67a0ad6bcd6ffd5d9dca1add3aa",
+    "anchor": "tempo seco",
+    "matchBasis": "Ericeira coastal Mafra; separate from Foz do Lizandro",
+    "finding": "Operator upgrade announcement distinguishes dry-weather and wet-weather treatment lines and planned internal reclaimed-water production. Storm-flow capacity is not dependable dry-period supply.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  },
+  {
+    "id": "eea/PT12057750",
+    "atlasName": "Santa Cruz/Silveira",
+    "url": "https://www.aguasdotejoatlantico.pt/comunicacao/noticias/2025/01/f%C3%A1brica-de-%C3%A1gua-de-santa-cruz-vai-receber-investimento-de-7-4m-em-obras-de-beneficia%C3%A7%C3%A3o/",
+    "archive": "data/research30/santa-cruz.html",
+    "sha256": "ac8c8c14a8bd48892f41d6b9d5854dd76e1b0c2e6066fb8376a1e4105a4af1c7",
+    "anchor": "Município de Torres Vedras",
+    "matchBasis": "Santa Cruz/Silveira in Torres Vedras; explicitly not Santa Cruz in Madeira",
+    "finding": "Operator upgrade announcement reports maximum treatment flow and plans for effluent disinfection and process-water production. Maximum capacity is not observed dry-period supply.",
+    "missing": "Obtain site-specific dry-period treated flow, existing reuse commitments, required discharge/ecosystem allowance, and permission for the proposed use over the same period.",
+    "classification": "partial-evidence",
+    "netM3Day": null,
+    "reviewed": "2026-09-14"
+  }
+]
