@@ -1,0 +1,2 @@
+PASS inverse capacity, recovery, cooling, operating factor, drought, limiting period, missing-data abstention, invalid inputs and deterministic inverse checks
+PASS DOE PEM system 2022 benchmark reproduced: 55 kWh/kg H2

@@ -1,0 +1,6 @@
+PASS original HOT published metadata count and geometry totals reproduced: 190527
+PASS published landmark identity and regional placement: Albufeira de Alqueva https://www.visitportugal.com/en/content/alqueva
+PASS published landmark identity and regional placement: Lagoa Azul https://www.visitazores.com/storage/media/2022/03/feel-alive-en.pdf
+PASS published landmark identity and regional placement: Ribeira Brava https://visitmadeira.com/en/where-to-go/madeira/west-coast/ribeira-brava/
+PASS every source ID preserved once in map geometry and search index; mainland and both island regions present
+PASS counts describe OSM features, not unique water bodies or completeness

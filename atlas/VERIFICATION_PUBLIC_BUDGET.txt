@@ -1,0 +1,2 @@
+PASS calendar demand, storage-change arithmetic and no fabricated budget or margin
+PASS EDIA 2024 p20 Table 11 annual total/components and Table 13 storage anchors reproduced from pinned public PDF

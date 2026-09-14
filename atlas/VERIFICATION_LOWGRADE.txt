@@ -1,0 +1,5 @@
+PASS EEA published coordinates reproduced: PT10032444 -7.916183 38.532266
+PASS EEA published coordinates reproduced: PT10032482 -7.98903 38.33684
+PASS EEA published coordinates reproduced: PT10032559 -8.78516 37.87444
+PASS EEA country count=500; non-null treated and reuse volume records=0
+PASS every EEA record located once; unknown volume remains null; no fabricated network links
