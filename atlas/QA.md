@@ -68,3 +68,6 @@ Comparison QA: deterministic signed budget, existing deficit, break-even, missin
 
 
 2026-09-14: automatic historical evidence browser QA checked source loading, live demand updates, hypothetical evidence suppression and restoration. Simplified UI checked optional four-site table, alternative EEA selection, capacity slider update, reduction to two sites and export action. Desktop screenshot inspected. Frozen screening tests verify signed margins and ordering using synthetic fixtures only; no real source budget is claimed verified. Mobile layout not rechecked.
+
+
+Supported-sites filter: assessment search, direct-link selection and comparisons exclude sources without complete supported budgets. The current eligible list is empty; the page says No supported sites available while retaining the plant-demand calculator and geographic atlas. Existing screening checks retain evidence validation and missing-data gates.

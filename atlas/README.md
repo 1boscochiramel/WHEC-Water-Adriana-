@@ -164,3 +164,6 @@ Public evidence update: Alqueva now automatically loads verified historical EDIA
 
 
 Simplified assessment: capacity.html now exposes only capacity, operating factor and electricity intensity sliders. Optional one-to-four source selection drives a side-by-side table and descending margin ranking. Per explicit user choice, only fully supported exact-source budgets with matching periods qualify; no current linked record establishes such a budget, so current sites correctly show insufficient data and no ranking. Water-intake defaults are visible assumptions. Detailed historical evidence and the prior scenario form remain at advanced.html. The map is unchanged.
+
+
+Supported-sites filter: assessment search, direct-link selection and comparisons exclude sources without complete supported budgets. The current eligible list is empty; the page says No supported sites available while retaining the plant-demand calculator and geographic atlas. Existing screening checks retain evidence validation and missing-data gates.
